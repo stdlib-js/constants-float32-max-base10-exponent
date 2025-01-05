@@ -163,7 +163,8 @@ Macro for the maximum base 10 exponent for a [single-precision floating-point nu
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants-float32/max-base2-exponent`][@stdlib/constants/float32/max-base2-exponent]</span><span class="delimiter">: </span><span class="description">the maximum biased base 2 exponent for a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/max-base10-exponent-subnormal`][@stdlib/constants/float32/max-base10-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the maximum base 10 exponent for a subnormal single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/max-base10-exponent`][@stdlib/constants/float64/max-base10-exponent]</span><span class="delimiter">: </span><span class="description">the maximum base 10 exponent for a double-precision floating-point number.</span>
 
 </section>
 
@@ -195,7 +196,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -245,7 +246,9 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/constants/float32/max-base2-exponent]: https://github.com/stdlib-js/constants-float32-max-base2-exponent
+[@stdlib/constants/float32/max-base10-exponent-subnormal]: https://github.com/stdlib-js/constants-float32-max-base10-exponent-subnormal
+
+[@stdlib/constants/float64/max-base10-exponent]: https://github.com/stdlib-js/constants-float64-max-base10-exponent
 
 <!-- </related-links> -->
 
